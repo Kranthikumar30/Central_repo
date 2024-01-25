@@ -1,2 +1,2 @@
 #!/bin/sh
-echo: "Welcome to DevOps"
+echo "Welcome to DevOps"
